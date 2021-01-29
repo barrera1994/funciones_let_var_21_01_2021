@@ -1,8 +1,8 @@
 function saludar(p1){
-    console.log(p1);
+ console.log(p1); 
 }
 
-function terminar(){
+function terminar(){ 
     console.log("Programa finalizado");
 }
 
